@@ -1,4 +1,4 @@
-Spring-projects
+spring_mvc_base
 ===============
 
-Spring, Spring mvc
+training project based on pluralsight tutorial
